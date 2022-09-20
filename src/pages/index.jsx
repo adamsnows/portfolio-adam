@@ -10,7 +10,7 @@ const Home = () => {
         <meta name="description" content="Um portfólio poderoso!" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
-      <div className="text-white flex justify-center items-center flex-col">
+      <div className="text-white flex justify-center items-center flex-col text-chacoal font-bebas text-[5rem] animate__animated animate__fadeIn">
         <TiWeatherSnow />
         <p className="m-2">Adam Neves - Portfólio</p>
         <hr className="w-full m-2" />
