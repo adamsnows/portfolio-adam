@@ -12,7 +12,7 @@ const Home = () => {
       </Head>
       <div className="text-white flex justify-center items-center flex-col text-chacoal font-bebas text-[5rem] animate__animated animate__fadeIn">
         <TiWeatherSnow />
-        <p className="m-2">Adam Neves - Portfólio</p>
+        <p className="m-2">Adam Neves™ - Portfólio</p>
         <hr className="w-full m-2" />
         <p className="m-2">Something very powerful is coming!</p>
       </div>
